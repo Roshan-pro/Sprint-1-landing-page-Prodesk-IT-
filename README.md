@@ -2,10 +2,10 @@
 
 A fully responsive landing page for Prodesk IT's digital marketing wing, built with raw HTML/CSS/JS (no frameworks) per Sprint 01 architecture constraints.
 
-**Live URL:** _add your deployed Vercel/Netlify link here after deploying_
+**Live URL:** https://sprint-1-landing-page-prodesk-it.vercel.app/
 
-![Screenshot](screenshot.png)
-_(replace with an actual screenshot of your deployed site before submitting)_
+![Screenshot](image.png)
+
 
 ## Design concept
 
